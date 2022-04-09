@@ -18,4 +18,3 @@ npm install hexo-asset-image-for-hexo5 --save
 
 要怎么将全部图片都放在同一个文件夹 images 下呢？
 
-![](hexo插入图片/2022-04-05-16-35-35-image.png)
