@@ -1,9 +1,9 @@
-~~~
+---
 title: 服务器杂记
 date: 2022-06-06 16:40:39
 tags: ubuntu
 description: 接触到的一些问题
-~~~
+---
 
 ## kaggle api 在 colab上
 

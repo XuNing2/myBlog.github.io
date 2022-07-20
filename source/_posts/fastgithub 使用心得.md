@@ -1,3 +1,9 @@
+---
+title: fastgithub 的使用
+date: 2022-04-06 12：00：00
+tags: hexo
+description: 在hexo 中插入图片的尝试
+---
 ## 原因
 
 在用到实验室服务器的时候，不可避免地需要github的服务，例如上传代码啥的，经常会碰到上传不了的问题。

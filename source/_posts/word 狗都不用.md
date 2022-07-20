@@ -1,10 +1,10 @@
-~~~
+---
 title: word 真是狗都不用
 date: 2022-04-12 20:46:50
 tags: word
 mathjax: true
 description: word 公式太难用了
-~~~
+---
 
 
 
